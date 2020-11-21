@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: cacheGuide
+  caches:
+    headlines:
+      charset: 'UTF-8'
